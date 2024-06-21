@@ -1,2 +1,3 @@
-from . import custom_handlers
+from . import finde_hotels
 from . import default_handlers
+
